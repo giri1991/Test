@@ -1,3 +1,0 @@
-Hello, I am Adam.
-And I am John.
-Upstream edit.
